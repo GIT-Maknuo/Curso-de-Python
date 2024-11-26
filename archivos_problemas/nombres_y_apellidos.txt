@@ -1,0 +1,17 @@
+Los datos son:
+
+nombre:freddy
+apellido:rengifo
+---------------
+nombre:alex
+apellido:legon
+---------------
+nombre:hector
+apellido:reyes
+---------------
+nombre:jairo
+apellido:leon
+---------------
+nombre:jose
+apellido:camargo
+---------------
